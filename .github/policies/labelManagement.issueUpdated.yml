@@ -240,8 +240,6 @@ configuration:
           - removeLabel:
               label: Binary-Validation-Error
           - removeLabel:
-              label: Blocked-InstallerType
-          - removeLabel:
               label: Blocking-Issue
           - removeLabel:
               label: Changes-Requested
@@ -425,8 +423,6 @@ configuration:
               label: Azure-Pipeline-Passed
           - removeLabel:
               label: Binary-Validation-Error
-          - removeLabel:
-              label: Blocked-InstallerType
           - removeLabel:
               label: Blocking-Issue
           - removeLabel:
